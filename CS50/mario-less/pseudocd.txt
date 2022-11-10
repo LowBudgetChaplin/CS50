@@ -1,4 +1,0 @@
-ask the user for the height between 1 & 8
-if the input from the user != a nr. between 1 & 8 repeat line 1
-if it's a nr. between 1 & 8
-initialize a counter i which on every iteration will print on the screen a "i" number of #'s
